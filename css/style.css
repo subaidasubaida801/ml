@@ -1,0 +1,81 @@
+*{
+margin: 0;
+padding:0;
+}
+body{
+background-image: url(../images/images\ \(9\).jfif);
+background-size: cover;
+background-clip: bottom 30px;
+}
+
+.navbar{
+background: #1eae98;
+}
+.navbar ul{
+    list-style: none;
+   text-transform: capitalize;
+  
+    }
+
+.navbar ul li{
+    width: 217px;
+    height: 80px;
+    background: #1eae98;
+    float: left;
+    text-align: center;
+  border: 1px solid wheat;
+  position: relative;
+    } 
+   
+ .navbar ul li a{
+text-decoration: none;
+ display: block;
+ line-height: 80px;
+        
+         }
+.navbar ul li a:hover {
+background: #067766bf;
+ }
+            
+.navbar ul ul{
+    display: none;
+    position: absolute;
+}
+
+.navbar ul ul ul{
+    left: 100%;
+    top: 0;
+     }
+    
+     .navbar ul li:hover >ul{
+        display: block;
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
